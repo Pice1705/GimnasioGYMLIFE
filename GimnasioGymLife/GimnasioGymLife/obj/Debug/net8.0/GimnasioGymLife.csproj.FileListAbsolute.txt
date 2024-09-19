@@ -1,0 +1,14 @@
+C:\Users\Franchi\source\repos\GimnasioGymLife\GimnasioGymLife\obj\Debug\net8.0\GimnasioGymLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franchi\source\repos\GimnasioGymLife\GimnasioGymLife\obj\Debug\net8.0\GimnasioGymLife.AssemblyInfoInputs.cache
+C:\Users\Franchi\source\repos\GimnasioGymLife\GimnasioGymLife\obj\Debug\net8.0\GimnasioGymLife.AssemblyInfo.cs
+C:\Users\Franchi\source\repos\GimnasioGymLife\GimnasioGymLife\obj\Debug\net8.0\GimnasioGymLife.csproj.CoreCompileInputs.cache
+C:\Users\Franchi\source\repos\GimnasioGymLife\GimnasioGymLife\bin\Debug\net8.0\GimnasioGymLife.exe
+C:\Users\Franchi\source\repos\GimnasioGymLife\GimnasioGymLife\bin\Debug\net8.0\GimnasioGymLife.deps.json
+C:\Users\Franchi\source\repos\GimnasioGymLife\GimnasioGymLife\bin\Debug\net8.0\GimnasioGymLife.runtimeconfig.json
+C:\Users\Franchi\source\repos\GimnasioGymLife\GimnasioGymLife\bin\Debug\net8.0\GimnasioGymLife.dll
+C:\Users\Franchi\source\repos\GimnasioGymLife\GimnasioGymLife\bin\Debug\net8.0\GimnasioGymLife.pdb
+C:\Users\Franchi\source\repos\GimnasioGymLife\GimnasioGymLife\obj\Debug\net8.0\GimnasioGymLife.dll
+C:\Users\Franchi\source\repos\GimnasioGymLife\GimnasioGymLife\obj\Debug\net8.0\refint\GimnasioGymLife.dll
+C:\Users\Franchi\source\repos\GimnasioGymLife\GimnasioGymLife\obj\Debug\net8.0\GimnasioGymLife.pdb
+C:\Users\Franchi\source\repos\GimnasioGymLife\GimnasioGymLife\obj\Debug\net8.0\GimnasioGymLife.genruntimeconfig.cache
+C:\Users\Franchi\source\repos\GimnasioGymLife\GimnasioGymLife\obj\Debug\net8.0\ref\GimnasioGymLife.dll
